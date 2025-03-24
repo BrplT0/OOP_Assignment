@@ -1,2 +1,3 @@
 # OOP_Assignment
-echo "<h1>My Project</h1><p>This is my first repository.</p>"
+<h1>OOP_Assignment</h1>
+<p>This is my first repository.</p>
